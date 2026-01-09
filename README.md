@@ -43,12 +43,12 @@ The application uses STOMP over WebSocket with SockJS fallback support, a server
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sonjyoti/Real-Time-Chat-App.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd your-repo-name
+cd Real-Time-Chat-App/app
 ```
 
 3. Run the application:
